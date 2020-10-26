@@ -1,5 +1,5 @@
-//  Map.cpp
-//  Created by A H on 10/01/20.
+//  Decimal to Binary converter.cpp
+//  Created by A H on 10/27/20.
 
 #include <iostream>
 #include <vector>
