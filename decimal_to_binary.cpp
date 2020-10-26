@@ -34,7 +34,7 @@ int main (){
         // If the input is a number
         else
         {
-            std::cout<<"The factorial of "<<number<<" is: ";
+            std::cout<<"The binary of "<<number<<" is: ";
             
             for (int x=0; number>0; x++)
             {
